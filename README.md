@@ -1,4 +1,3 @@
-# COM1003
 # Autumn Semester
 **Assignment 1:** 75 / 100
 
