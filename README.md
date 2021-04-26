@@ -12,11 +12,11 @@
 **Quiz 3:** 50 / 72
 
 # Spring Semester
-**Problem Sheet 1:93 / 100
+**Problem Sheet 1:** 93 / 100
 
 **Problem Sheet 2:** * / 10
 
-**Assignment :* / 55
+**Assignment :** * / 55
 
 **Quiz 1:** 7 / 7
 
