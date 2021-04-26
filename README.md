@@ -12,10 +12,18 @@
 **Quiz 3:** 50 / 72
 
 # Spring Semester
-**Problem Sheet 1:** * / 10
+**Problem Sheet 1:93 / 100
 
 **Problem Sheet 2:** * / 10
 
-**Assignment Stage 1:** * / 30
+**Assignment :* / 55
 
-**Assignment Stage 2:** * / 25
+**Quiz 1:** 7 / 7
+
+**Quiz 2:** 8 / 8
+
+**Quiz 3:** 6 / 6
+
+**Quiz 4:** 4 / 7
+
+**Quiz 5:** * / *
