@@ -14,9 +14,9 @@
 # Spring Semester
 **Problem Sheet 1:** 93 / 100
 
-**Problem Sheet 2:** * / 10
+**Problem Sheet 2:** 87 / 100
 
-**Assignment :** * / 55
+**Assignment :** 48 / 55
 
 **Quiz 1:** 7 / 7
 
